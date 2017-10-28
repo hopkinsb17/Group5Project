@@ -17,7 +17,7 @@ session_destroy();
 <div class="panel-body">
 <form role="form" style="width: 400px;height: 200px;vertical-align: middle;" action="LandingPage.php" method="post">
   <div class="form-group">
-    <label for="email">Midas-id:</label>
+    <label for="email">Pirate-id:</label>
     <input type="text" class="form-control" id="midasid" name="midasid">
   </div>
   <div class="form-group">
