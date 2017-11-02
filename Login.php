@@ -1,7 +1,7 @@
 <form role="form" style="vertical-align: middle;" action="LandingPage.php" method="post">
   <div class="form-group">
-    <label for="email">Midas-id:</label>
-    <input type="text" class="form-control" id="midasid" name="midasid">
+    <label for="email">Email-id:</label>
+    <input type="text" class="form-control" id="emailid" name="emailid">
   </div>
   <div class="form-group">
     <label for="pwd">Password:</label>
