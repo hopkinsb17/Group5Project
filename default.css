@@ -13,3 +13,11 @@
     top: 10px;
     font-size: 25px;
 }
+table {
+    border-collapse: collapse;
+    width:75%;
+}
+th,td {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
